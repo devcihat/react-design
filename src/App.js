@@ -6,7 +6,7 @@ import Home from "./components/Home";
 import { Switch, Route, Redirect } from "react-router-dom";
 import About from "./components/About";
 import Navbar from "./components/Navbar";
-import Service from "./Service";
+import Service from "./components/Service";
 import Contact from "./components/Contact";
 
 const App = () => {
