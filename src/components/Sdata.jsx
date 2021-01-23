@@ -1,33 +1,26 @@
-import web from ".././public/img/web.jpg";
-import app from "../img/app.png";
-import android from "../img/android.jpg";
-import digital from "../img/digital.jpg";
-import marketing from "../img/marketing.jpg";
-import software from "../img/software.jpg";
-
 const Sdata = [
   {
-    imgsrc: web,
+    imgsrc: "https://picsum.photos/200",
     title: "web development"
   },
   {
-    imgsrc: app,
+    imgsrc: "https://picsum.photos/200",
     title: "app development"
   },
   {
-    imgsrc: software,
+    imgsrc: "https://picsum.photos/200",
     title: "software development"
   },
   {
-    imgsrc: digital,
+    imgsrc: "https://picsum.photos/200",
     title: "digital development"
   },
   {
-    imgsrc: android,
+    imgsrc: "https://picsum.photos/200",
     title: "android development"
   },
   {
-    imgsrc: marketing,
+    imgsrc: "https://picsum.photos/200",
     title: "marketing development"
   }
 ];
