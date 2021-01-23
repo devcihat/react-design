@@ -10,7 +10,7 @@ function Navbar() {
           <nav className="navbar navbar-expand-lg navbar-light bg-light">
             <div className="container-fluid">
               <NavLink className="navbar-brand" to="/">
-                <i class="fab fa-react" />
+                <i className="fab fa-react fa-lg" />
               </NavLink>
               <button
                 className="navbar-toggler"
