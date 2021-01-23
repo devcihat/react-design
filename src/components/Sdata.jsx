@@ -1,27 +1,27 @@
 const Sdata = [
   {
     imgsrc: "https://picsum.photos/200",
-    title: "web development"
+    title: "Web Development"
   },
   {
     imgsrc: "https://picsum.photos/200",
-    title: "app development"
+    title: "App Development"
   },
   {
     imgsrc: "https://picsum.photos/200",
-    title: "software development"
+    title: "Software Development"
   },
   {
     imgsrc: "https://picsum.photos/200",
-    title: "digital development"
+    title: "Digital Development"
   },
   {
     imgsrc: "https://picsum.photos/200",
-    title: "android development"
+    title: "Android Development"
   },
   {
     imgsrc: "https://picsum.photos/200",
-    title: "marketing development"
+    title: "Marketing Development"
   }
 ];
 
