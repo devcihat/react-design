@@ -5,6 +5,7 @@ import "./style.css";
 import Home from "./components/Home";
 import { Switch, Route, Redirect } from "react-router-dom";
 import About from "./components/About";
+import CardDetail from "./components/CardDetail";
 import Navbar from "./components/Navbar";
 import Service from "./components/Service";
 import Contact from "./components/Contact";
@@ -18,6 +19,7 @@ const App = () => {
         <Route exact path="/about" component={About} />
         <Route exact path="/service" component={Service} />
         <Route exact path="/contact" component={Contact} />
+        <Route path="/cardetail" component={CardDetail} />
         <Redirect to="/" />
       </Switch>
     </>
