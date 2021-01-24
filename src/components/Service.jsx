@@ -1,6 +1,7 @@
 import React from "react";
 import Sdata from "./Sdata";
 import Card from "./Card";
+import CardDetail from "./CardDetail";
 
 function Service() {
   return (

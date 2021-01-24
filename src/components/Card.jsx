@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import CardDetail from "./CardDetail";
 
 function Card(props) {
   return (
@@ -15,7 +16,7 @@ function Card(props) {
             </p>
             <Link to="/cardetail/:key">
               <button className="btn-get-started text-white btn-primary">
-                Detail
+                Details
               </button>
             </Link>
           </div>
