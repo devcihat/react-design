@@ -141,9 +141,19 @@ function About() {
                 enim ad minim veniam, quis nostrud exercitation. Lorem ipsum
                 dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-                minim veniam, quis nostrud exercitation.
+                minim veniam, quis nostrud exercitation.eiusmod tempor
+                incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+                veniam, quis nostrud exercitation. Lorem ipsum dolor sit amet,
+                consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+                labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+                nostrud exercitation.
               </p>
-              
+              <button className="btn-get-started text-center " role="button">
+                View details »
+              </button>
+              <button className="btn-get-started mt-2 " role="button">
+                More details »
+              </button>
               <div className="mt-3" />
             </div>
             <div className="col-lg-6 order-1 order-lg-2 header-img pt-5">
