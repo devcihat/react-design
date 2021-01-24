@@ -6,7 +6,6 @@ import Home from "./components/Home";
 import { Switch, Route, Redirect } from "react-router-dom";
 import About from "./components/About";
 import CardDetail from "./components/CardDetail";
-import Sdata from "./components/Sdata";
 import Navbar from "./components/Navbar";
 import Service from "./components/Service";
 import Contact from "./components/Contact";
