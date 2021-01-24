@@ -1,7 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Sdata from "./Sdata";
-import Card from "./Card";
 
 function CardDetail(props) {
   const { imgsrc, title } = props;
