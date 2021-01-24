@@ -4,7 +4,7 @@ import Sdata from "./Sdata";
 import Card from "./Card";
 
 function CardDetail(props) {
-  const { imgsrc, title } = this.props.card;
+  const { imgsrc, title } = props;
   console.log(props);
   return (
     <div className="container">
@@ -29,7 +29,7 @@ function CardDetail(props) {
               </p>
               <Link to="/service">
                 <a className="btn-get-started text-white btn-primary">
-                  Back Card List
+                  Back Services
                 </a>
               </Link>
             </div>
