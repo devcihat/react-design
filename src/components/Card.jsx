@@ -1,5 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import CardDetail from "./CardDetail";
 
 function Card(props) {
   return (
@@ -13,8 +14,8 @@ function Card(props) {
               Some quick example text to build on the card title and make up the
               bulk of the card's content.
             </p>
-            <NavLink to="" className="btn btn-primary">
-              Go somewhere
+            <NavLink to="/CardDetail" className="btn-get-started btn-primary">
+              Detail
             </NavLink>
           </div>
         </div>
