@@ -59,7 +59,7 @@ function About() {
               Praesent commodo cursus magna.
             </p>
             <p className="text-white">
-              <button class="btn-get-started  btn-secondary" role="button">
+              <button class="btn-get-started  " role="button">
                 View details »
               </button>
             </p>
@@ -90,7 +90,7 @@ function About() {
               mauris condimentum nibh.
             </p>
             <p className="text-white">
-              <button class="btn-get-started btn-secondary" role="button">
+              <button class="btn-get-started " role="button">
                 View details »
               </button>
             </p>
@@ -118,10 +118,10 @@ function About() {
               Donec sed odio dui. Cras justo odio, dapibus ac facilisis in,
               egestas eget quam. Vestibulum id ligula porta felis euismod
               semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-              condimentum nibh, ut fermentum massa justo sit amet risus.
+              condimentum nibh, ut fermentum massa
             </p>
             <p className="text-white">
-              <button class="btn-get-started btn-secondary" role="button">
+              <button class="btn-get-started " role="button">
                 View details »
               </button>
             </p>
