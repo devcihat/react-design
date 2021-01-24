@@ -11,7 +11,7 @@ function CardDetail(props) {
       <div className="row">
         <div className="col-lg-6 order-1 order-lg-2 header-img">
           <lottie-player
-            src="https://assets2.lottiefiles.com/packages/lf20_1tiI8w.json"
+            src="https://assets7.lottiefiles.com/packages/lf20_yExUVz.json"
             background="transparent"
             speed="1"
             loop

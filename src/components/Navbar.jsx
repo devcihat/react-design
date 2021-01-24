@@ -32,11 +32,11 @@ function Navbar() {
                     <NavLink
                       activeClassName="menu_active"
                       exact
-                      className="nav-link active"
+                      className="nav-link "
                       aria-current="page"
                       to="/"
                     >
-                      Home
+                      <i className="fas fa-home" /> Home
                     </NavLink>
                   </li>
                   <li className="nav-item">
@@ -45,7 +45,7 @@ function Navbar() {
                       className="nav-link"
                       to="/service"
                     >
-                      Services
+                      <i class="fab fa-servicestack" /> Services
                     </NavLink>
                   </li>
                   <li className="nav-item">
@@ -54,7 +54,7 @@ function Navbar() {
                       className="nav-link"
                       to="/about"
                     >
-                      About
+                      <i class="fas fa-info-circle" /> About
                     </NavLink>
                   </li>
                   <li className="nav-item">
@@ -63,7 +63,7 @@ function Navbar() {
                       className="nav-link"
                       to="/contact"
                     >
-                      Contact
+                      <i class="fas fa-info-circle" /> Contact
                     </NavLink>
                   </li>
                 </ul>
