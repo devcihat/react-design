@@ -14,7 +14,9 @@ function Card(props) {
               bulk of the card's content.
             </p>
             <Link to="/cardetail">
-              <a className="btn-get-started text-white btn-primary">Detail</a>
+              <button className="btn-get-started text-white btn-primary">
+                Detail
+              </button>
             </Link>
           </div>
         </div>

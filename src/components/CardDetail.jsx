@@ -26,9 +26,9 @@ function CardDetail(props) {
                 the bulk of the card's content.
               </p>
               <Link to="/service">
-                <a className="btn-get-started text-white btn-primary">
+                <button className="btn-get-started text-white btn-primary">
                   Back Services
-                </a>
+                </button>
               </Link>
             </div>
           </div>
