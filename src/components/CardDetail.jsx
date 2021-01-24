@@ -4,6 +4,8 @@ import { Link } from "react-router-dom";
 function CardDetail(props) {
   const { imgsrc, title } = props;
   console.log(props);
+  console.log(title);
+  console.log(imgsrc);
   return (
     <div className="container">
       <div className="row">

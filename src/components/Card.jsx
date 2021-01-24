@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import CardDetail from "./CardDetail";
 
 function Card(props) {
   return (
@@ -14,7 +13,7 @@ function Card(props) {
               Some quick example text to build on the card title and make up the
               bulk of the card's content.
             </p>
-            <Link to="/cardetail/:key">
+            <Link to="/cardDetail/:key">
               <button className="btn-get-started text-white btn-primary">
                 Details
               </button>
