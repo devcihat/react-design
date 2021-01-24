@@ -20,13 +20,9 @@ function CardDetail(props) {
         </div>
         <div className=" col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
           <div className="card">
-            <img
-              src={props.imgsrc}
-              className="card-img-top"
-              alt={props.imgsrc}
-            />
+            <img src={imgsrc} className="card-img-top" alt={imgsrc} />
             <div className="card-body text-center">
-              <h5 className="card-title fw-bold">{props.title}</h5>
+              <h5 className="card-title fw-bold">{title}</h5>
               <p className="card-text fw-lighter">
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
