@@ -14,7 +14,9 @@ function Home() {
                   <strong className="brand-name"> Lorem Ipsum</strong>
                 </h1>
                 <h2 className="my-3">
-                  We are the team of talented developer making websites
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam
                 </h2>
                 <div className="mt-3">
                   <NavLink to="/service" className="btn-get-started mb-3">
