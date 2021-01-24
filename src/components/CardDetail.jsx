@@ -14,7 +14,6 @@ function CardDetail(props) {
             src="https://assets7.lottiefiles.com/packages/lf20_yExUVz.json"
             background="transparent"
             speed="1"
-            loop
             autoplay
           />
         </div>
